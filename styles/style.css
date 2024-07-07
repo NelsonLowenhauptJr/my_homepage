@@ -1,0 +1,17 @@
+.About_me {
+    display: flex;
+    justify-content: center ;
+    text-align: center;
+}
+#My_image {
+    border-radius: 100%;
+}
+
+#Lista {
+    display: flex;
+    justify-content: center;
+}
+
+.my_foot {
+    background-color: #FFF;
+}
